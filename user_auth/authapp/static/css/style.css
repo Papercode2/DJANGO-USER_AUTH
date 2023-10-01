@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Common styles for the cyan-colored container */
+.cyan-container {
+    background-color: cyan;
+    padding: 20px; /* Adjust padding as needed */
+    margin: 20px; /* Adjust margin as needed */
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    color: #fff; /* Text color */
+}
+
+/* Header, navigation, and footer styles */
+header, nav, footer {
+    background-color: cyan;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+/* Style links within the containers */
+.cyan-container a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style headings within the containers */
+.cyan-container h1 {
+    color: #333; /* Change heading color if needed */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    background-color: #fff; /* White background for content */
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333; /* Text color */
+}
